@@ -24,4 +24,4 @@ The dataset was provided by Quantum analytics as part of virtual internship proj
 - United States and China generate the highest electricity about 41% and 31% of the total electricity generated respectively
 - United States has the highest GDP followed by China.
 
-![]()
+![](Dashboard1.png)  ![](Dashboard2.png)
