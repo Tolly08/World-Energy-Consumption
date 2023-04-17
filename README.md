@@ -22,4 +22,6 @@ The dataset was provided by Quantum analytics as part of virtual internship proj
 - China and United States leads the world energy production capacity and consumption which is a reflection of population and industrialization
 - China has the largest population of 96 billions followed by India which  also have 71 billions.
 - United States and China generate the highest electricity about 41% and 31% of the total electricity generated respectively
-- Also for GDP, United States and China has the highest 
+- United States has the highest GDP followed by China.
+
+![]()
